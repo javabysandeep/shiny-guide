@@ -1,5 +1,5 @@
 ********* Library management Database Design by Prem *************
-solution
+Tables are as follows
 - author(id,)
 - books(id)
 - book_authors
