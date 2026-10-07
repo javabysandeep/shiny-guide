@@ -1,6 +1,4 @@
-Library management Schema
-
-
+********* Library management Database Design by Prem *************
 solution
 - author(id,)
 - books(id)
