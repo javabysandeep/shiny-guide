@@ -1,10 +1,8 @@
-Month 1 — Core Java & OOP Foundations
+public class HelloWorld {
 
-Java basics: syntax, data types, control flow, arrays
-OOP: classes, objects, inheritance, polymorphism, abstraction, encapsulation
-Exception handling, collections framework (List, Set, Map, Queue)
-String handling, wrapper classes, autoboxing
-Java 8+ features: lambdas, streams, functional interfaces, Optional
-File I/O basics
-Mini project: Console-based CRUD app (e.g., library/inventory management)
+	public static void main(String[] args){
+
+		System.out.println("Hello Wolrd");
+	}
+}
 
