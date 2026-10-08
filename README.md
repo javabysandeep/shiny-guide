@@ -1,2 +1,2 @@
 # shiny-guide
-git classes for dummies
+git classes for freshers
