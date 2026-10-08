@@ -1,11 +1,10 @@
-********* Library management Database Design by Prem *************
+Month 1 — Core Java & OOP Foundations
 
-List of tables are :
+Java basics: syntax, data types, control flow, arrays
+OOP: classes, objects, inheritance, polymorphism, abstraction, encapsulation
+Exception handling, collections framework (List, Set, Map, Queue)
+String handling, wrapper classes, autoboxing
+Java 8+ features: lambdas, streams, functional interfaces, Optional
+File I/O basics
+Mini project: Console-based CRUD app (e.g., library/inventory management)
 
-- author(id,)
-- books(id)
-- book_authors
-- shelves
-- book_copies(copy_id, )
-- users(id, )
-- loans(loan_id, copy_id, user_id, date_of_issue, due_date, return_date, fine_aount)
