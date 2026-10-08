@@ -8,4 +8,7 @@ List of tables are :
 - shelves
 - book_copies(copy_id, )
 - users(id, )
-- loans(loan_id, copy_id, user_id, date_of_issue, due_date, return_date, fine_aount)
+
+
+
+this helpme file is used to guide new developers
