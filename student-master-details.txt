@@ -1,10 +1,5 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-Saloni Satav 
-=======
-Name = Samrat Landge 
->>>>>>> 44a4a78f58b0e404ab5fa2c59dae4c58c067cf89
-=======
+
+Saloni Satav  
 Name = Samrat Landge 
 Name = Akshay Gholve
->>>>>>> 5c97db11e9e46c266f5f3907a183c9eeca61f74b
+
