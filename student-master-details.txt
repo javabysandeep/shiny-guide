@@ -1,2 +1,2 @@
 Name = Samrat Landge 
-Pushkar Kolhe 
+NAME = Pushkar Kolhe 
